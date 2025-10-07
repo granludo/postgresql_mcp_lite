@@ -143,4 +143,8 @@ Configure your MCP client (like Claude Desktop) to connect to this server via SS
 
 ## License
 
-For educational use.
+GPL v3.0
+
+## Usage intention 
+
+For educational use. Not production! 
