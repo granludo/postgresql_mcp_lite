@@ -1,0 +1,9 @@
+{
+    "host": "localhost",
+    "port": 5432,
+    "user": "evaluator",
+    "password": "secret123",
+    "read_only": true,
+    "query_timeout": 30,
+    "max_rows": 1000
+  }
